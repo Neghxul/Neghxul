@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neghxul
 - 👀 I’m interested in ... technology
-- 🌱 I’m currently learning ... Python, C#, Front End, Back End and AJAX
+- 🌱 I’m currently learning ... Python, C#, Front End, Back End and APEX
 - 💞️ I’m looking to collaborate ... on anything that can give some experience and being a developer
 - 📫 How to reach me ... cgrr29us@gmail.com
 
